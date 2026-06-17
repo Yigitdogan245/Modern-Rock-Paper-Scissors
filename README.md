@@ -1,6 +1,6 @@
 # ⚔️ Modern Taş-Kağıt-Makas Oyunu
 
-Modern Taş Kağıt Makas, klasik el oyunu mekaniklerini gelişmiş bir web mimarisiyle yeniden yorumlayarak oyuncuların anlık reaksiyon sürelerini milisaniye (ms) hassasiyetinde ölçen, analiz eden ve veri tabanında saklayan **Tek Sayfa Tabanlı (SPA)** bir performans analiz platformudur.
+Modern Taş Kağıt Makas; dünyada bir ilk olan benzersiz alev ve buz temalı arenaları, özel oyun modlarını (1v1 ve CPU) ve milisaniyelik hassas refleks ölçüm sistemini bir araya getiren tamamen orijinal ve yaratıcı bir projedir. Sayfa yenilenmeden akıcı bir şekilde çalışan modern bir Tek Sayfa (SPA) yapısına sahiptir.
 
 ---
 
